@@ -1,6 +1,6 @@
-package bangundatar;
+package Shapes;
 
-public class SegitigaSembarang extends Segitiga {
+public class SegitigaSembarang implements Segitiga {
     private double sisi1;
     private double sisi2;
     private double sisi3;
