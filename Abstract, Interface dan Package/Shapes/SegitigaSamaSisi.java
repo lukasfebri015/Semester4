@@ -1,6 +1,6 @@
-package bangundatar;
+package Shapes;
 
-public class SegitigaSamaSisi extends Segitiga {
+public class SegitigaSamaSisi implements Segitiga {
     public SegitigaSamaSisi(double alas, double tinggi) {
         super(alas, tinggi);
     }
