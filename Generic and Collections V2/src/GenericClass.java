@@ -46,3 +46,11 @@ public class GenericClass<T> {
         System.out.println("LinkedList: " + strList);
     }
 }
+
+//Ouput//
+Value: 10
+Value: Hello, Generics!
+Generic Method: 5
+ArrayList: [1, 2, 3]
+LinkedList: [Apple, Banana, Cherry]
+//Hasil//
