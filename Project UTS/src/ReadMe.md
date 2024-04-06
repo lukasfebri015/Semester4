@@ -13,4 +13,4 @@ Permainan ini memiliki fitur-fitur seperti:
 
 Permainan ini juga mendukung teknologi deployment yang menyederhanakan proses perilisan perubahan perangkat lunak ke pengguna aplikasi, serta memberikan dukungan lanjutan untuk pembaruan dalam aplikasi. Teknologi deployment seperti plugin Java dan Java Web Start disertakan sebagai bagian dari instalasi JRE[2].
 
-[![PROJECT-UTS-PBO]([htt/0.jpg](https://img.youtube.com/vi/![image](https://github.com/lukasfebri015/Semester4/assets/115157061/0e5e713b-445d-464c-aeb3-5055213e9a69.jpg)(https://www.youtube.com/watch?v=vmmksWd9iyQ&t=1s)
+[![PROJECT-UTS-PBO](https://youtu.be/vmmksWd9iyQ/0.jpg)(https://www.youtube.com/watch?v=vmmksWd9iyQ&t=1s)
