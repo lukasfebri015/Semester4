@@ -69,3 +69,20 @@ tokenized_text = tokenize(original_text)
 filtered_words = remove_stopwords(tokenized_text)
 stemmed_words = stem_words(filtered_words)
 print(stemmed_words)  # output: ['exampl', 'show', 'stem', 'word']
+
+-------------------------------------------------------------------------------------
+
+Hasil Output:
+
+this is an example sentence.
+Hello World
+There are  apples and  oranges.
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\febri\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+['This', 'is', 'an', 'example', 'sentence', '.']
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\febri\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+['This', 'example', 'showing', 'stopwords', 'removal', '.']
+['thi', 'exampl', 'show', 'stem', 'word', '.']
