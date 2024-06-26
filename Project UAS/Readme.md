@@ -1,1 +1,1 @@
-[![PROJECT-UAS-PBO](http://i3.ytimg.com/vi/tlxtj3QfJVc?si=k4lnanNPrdVicGFN/hqdefault.jpg)](https://www.youtube.com/watch?v=tlxtj3QfJVc)
+[![PROJECT-UAS-PBO](https://img.youtube.com/vi/tlxtj3QfJVc/sddefault.jpg)](https://www.youtube.com/watch?v=tlxtj3QfJVc)
